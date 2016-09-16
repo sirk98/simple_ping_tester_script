@@ -6,7 +6,7 @@ import socket
 import subprocess
 import termcolor
 
-default_host = 'ping.sys-out.net'
+default_host = 'ping.ggrapes.uk'
 
 try:
     print (termcolor.colored(
